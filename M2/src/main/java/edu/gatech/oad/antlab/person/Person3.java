@@ -42,15 +42,17 @@ public class Person3 {
 	 * @return the reversed string
 	 */
 	private String calc(String input) {
-		if (string.length == 1){
+		if (input.length() == 1){
 			return input;
 		}
-		String out;
-		for (int i = 0; i < string.length - 1; i++) {
-			out = out + string.charAt(0);
+		String out = "";
+		for (int i = 0; i < input.length() - 1; i++) {
+			out = out + input.charAt(0);
 
 		}
 
-	  return out;
+		return out;
 	}
+
+}
 }
