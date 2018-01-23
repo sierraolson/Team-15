@@ -4,7 +4,7 @@ import java.util.Random;
  *  A simple class for person 2
  *  returns their name and a
  *  modified string 
- *
+ * Edited by Thomas Horton GTID: 903217642
  * @author Bob
  * @version 1.1
  */
