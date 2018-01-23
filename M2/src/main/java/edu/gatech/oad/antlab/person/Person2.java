@@ -5,6 +5,7 @@ import java.util.Random;
  *  returns their name and a
  *  modified string 
  * Edited by Thomas Horton GTID: 903217642
+ * Team 15
  * @author Bob
  * @version 1.1
  */
