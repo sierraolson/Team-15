@@ -1,0 +1,7 @@
+apply plugin: 'application'
+
+dependencies {
+    compile fileTree(dir: 'lib', include: '*.jar')
+}
+
+mainClassName = 'edu.gatech.oad.antlab.pkg1.AntLabMain'
